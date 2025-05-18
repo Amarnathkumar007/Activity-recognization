@@ -112,14 +112,6 @@ Advanced version with bidirectional LSTMs achieves [94% accuracy](https://github
 - Featured in [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 ```
 
-This version:
-1. Uses proper Markdown headers and formatting
-2. Includes a table of contents for easy navigation
-3. Preserves all key information in a more scannable format
-4. Uses code blocks for technical details
-5. Maintains all links and citations
-6. Is properly structured for GitHub rendering
-
 To use:
 1. Copy this text into a file named `README.md`
 2. Update the GitHub URL with your actual username/repo
